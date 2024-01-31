@@ -5,7 +5,7 @@ MongoDB Documentation
 This repository contains a major revision of the MongoDB documentation,
 currently accessible at https://www.mongodb.com/docs/manual/. You can build
 the documentation locally if you have `giza
-<https://pypi.python.org/pypi/giza>`_ installed: ::
+<https://pypi.python.org/pypi/giza>`_ installed: :: 
 
      python2 -m pip install giza
      git clone https://github.com/mongodb/docs.git
